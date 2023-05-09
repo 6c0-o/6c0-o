@@ -1,7 +1,7 @@
 #
 <div>
 <br/>
-<img src="https://media.discordapp.net/attachments/1095383942565220524/1105565070454439966/banner.png"/>
+<img src="https://media.discordapp.net/attachments/1095383942565220524/1105576844952084550/banner_1.png"/>
 <br/>
 <br/>
 
