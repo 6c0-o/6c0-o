@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=6c0-o.6c0-o" />
 <div>
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/6c0-o/6c0-o/main/banner.png"/></div>
 <br/>
 <h3 align="center">A passionate developer from France <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
 <div align="center">I'm actually working on an own made <a href="https://spy.pet/">spy.pet</a> & private biolink</div>
