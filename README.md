@@ -9,7 +9,11 @@
 <h2>Commits</h2>
 <br>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/6c0-o/6c0-o/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6c0-o/6c0-o/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6c0-o/6c0-o/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/6c0-o/6c0-o/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
   <br/><br/>
 </div>
 
