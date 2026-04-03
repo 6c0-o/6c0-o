@@ -2,8 +2,8 @@
 <div>
 <br/>
 <br/>
-<h3 align="center">A passionate developer from France <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
-<div align="center">I'm actually working on <a href="https://github.com/6c0-o/adeco">Adeco</a> admin sys & hytale launcher</div>
+<h3 align="center">A passionate developer</h3>
+<div align="center">I'm actually working on private project</div>
 </div>
 
 <h2>Commits</h2>
